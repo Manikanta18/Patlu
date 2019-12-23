@@ -1,6 +1,8 @@
 # Patlu
 Patlu is one kind of cards game
 
+## Rules
+
 ## Steps to play
 
 step 1
